@@ -1,0 +1,548 @@
+[33mcommit 9ffc3b2b0bae797b5a808ee0743c42cf0a10d3c9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: ferrdel <fernandoramirezdelgado@gmail.com>
+Date:   Sun May 2 22:57:11 2021 -0300
+
+    archivos agregados del ejercicio phpMobile
+
+[33mcommit 8f084bfdbf8241a6fb382e62b0039f3dfe4b5c2a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Joel Vitelli <jvitelli92@gmail.com>
+Date:   Wed Apr 7 18:13:34 2021 -0300
+
+    Update Pom.xml
+
+[33mcommit 1aa0a3243b3ce73891159f44ba751036ad4ff35c[m
+Author: Joel Vitelli <jvitelli92@gmail.com>
+Date:   Wed Apr 7 18:00:41 2021 -0300
+
+    First commit
+
+[33mcommit e6f03f3fcc858d0385e64cb1202eef392e658cf6[m
+Author: ebaldizzoni-crowdar <56650357+ebaldizzoni-crowdar@users.noreply.github.com>
+Date:   Thu Dec 10 12:01:08 2020 -0300
+
+    Update pom.xml
+
+[33mcommit c83f4984753bf3148d71a3d2600662701ea1bcc3[m
+Merge: 2ab2472 d7db063
+Author: Juan Manuel Spoleti <juan.spoleti@crowdaronline.com>
+Date:   Thu Sep 17 19:47:38 2020 +0000
+
+    Merged in develop (pull request #7)
+    
+    Develop
+
+[33mcommit d7db063920f5f4c66dc39631050c51ad507f68d8[m
+Author: Pole <juanmspoleti@gmail.com>
+Date:   Thu Sep 17 16:46:59 2020 -0300
+
+    revert profiles in docker compose yml
+
+[33mcommit 31ce7260e2c7a8562fdd2bd338be258fe3c7b28f[m
+Author: Pole <juanmspoleti@gmail.com>
+Date:   Thu Sep 17 16:46:20 2020 -0300
+
+    Revert "add reporter"
+    
+    This reverts commit 632ea67be4f37564bb6a9810c20eb771fe473989.
+
+[33mcommit 2ab2472afde1f985ebec487280fb1c3baa6bf57c[m
+Merge: 88ed226 632ea67
+Author: Juan Manuel Spoleti <juan.spoleti@crowdaronline.com>
+Date:   Thu Sep 17 19:34:43 2020 +0000
+
+    Merged in develop (pull request #6)
+    
+    Develop
+
+[33mcommit 632ea67be4f37564bb6a9810c20eb771fe473989[m
+Author: Pole <juan.spoleti@crowdaronline.com>
+Date:   Thu Sep 17 16:32:55 2020 -0300
+
+    add reporter
+
+[33mcommit 546ff7e6ac03b365f683abbb56f0e2c159cb101e[m
+Author: Pole <juan.spoleti@crowdaronline.com>
+Date:   Thu Sep 17 16:21:25 2020 -0300
+
+    add reporter
+
+[33mcommit 88ed226e79337eb17484e094db4453bfd68261b9[m
+Merge: 0841f8d 038dea2
+Author: Alejandro Marcelo Ares <alejandro.ares@crowdaronline.com>
+Date:   Tue Sep 8 19:27:26 2020 +0000
+
+    Merged in Lippia_mobile_sample (pull request #5)
+    
+    Firts commit:
+    
+    Approved-by: Juan Manuel Spoleti
+
+[33mcommit 038dea25aa147358f6ae33fbfad95385f24aa309[m
+Author: aresalejandro <alejandro.ares@crowdaronline.com>
+Date:   Mon Sep 7 09:16:46 2020 -0300
+
+    Firts commit:
+    -Clean the code sample
+    -Run from docker-compose using Lippia 3.2.1.1 image
+    -Modify readme
+
+[33mcommit 0841f8d03643dbb95b394dd4cf2d4930a6b10dd3[m
+Merge: a598c95 e99ce04
+Author: Juan Manuel Spoleti <juan.spoleti@crowdaronline.com>
+Date:   Fri Aug 14 18:27:52 2020 +0000
+
+    Merged in develop (pull request #4)
+    
+    lippia 3.2.0
+
+[33mcommit e99ce040d7d6c0adfedebf420fbdb0f9e6dcf993[m
+Merge: 98b3955 52875af
+Author: Juan Manuel Spoleti <juan.spoleti@crowdaronline.com>
+Date:   Fri Aug 14 18:19:51 2020 +0000
+
+    Merged in locatorProperties (pull request #3)
+    
+    lippia 3.2.0 + locators in properties + improves in pom profiles + fix browser stack
+
+[33mcommit 52875af7b4bf5fe517c0bfd9911d54bcbdfc4384[m
+Author: Pole <juanmspoleti@gmail.com>
+Date:   Fri Aug 14 15:18:26 2020 -0300
+
+    update readme
+
+[33mcommit 314873956ac0f7ab44235a0742dc5e0dacac7510[m
+Author: Pole <juanmspoleti@gmail.com>
+Date:   Thu Aug 13 18:47:50 2020 -0300
+
+    migracion a nueva forma locators, faltaria readme
+
+[33mcommit f31b3882158774bf666bc56f1729416ac97076a6[m
+Author: Pole <juanmspoleti@gmail.com>
+Date:   Mon Aug 10 13:11:49 2020 -0300
+
+    update
+
+[33mcommit b1461959ce100a70965b6872d3ed36ed55432823[m
+Author: Pole <juanmspoleti@gmail.com>
+Date:   Mon Aug 10 09:19:59 2020 -0300
+
+    lippia 3.2.0 + locators in properties + improves in pom profiles + fix browser stack
+
+[33mcommit a598c95ace43419a54685942057c15ac23559cac[m
+Merge: b2e993f 98b3955
+Author: Juan Manuel Spoleti <juan.spoleti@crowdaronline.com>
+Date:   Tue Aug 4 16:10:46 2020 +0000
+
+    Merged in develop (pull request #2)
+    
+    saco credentials
+
+[33mcommit 98b395533e1dd176e9bc270ab8701c2f1f3db702[m
+Author: Pole <juanmspoleti@gmail.com>
+Date:   Tue Aug 4 13:10:27 2020 -0300
+
+    saco credentials
+
+[33mcommit b2e993f351ae519db070a5bd191586107785ae7e[m
+Merge: fcc2e0f e95f2ed
+Author: Juan Manuel Spoleti <juan.spoleti@crowdaronline.com>
+Date:   Tue Aug 4 16:08:08 2020 +0000
+
+    Merged in develop (pull request #1)
+    
+    Develop
+
+[33mcommit e95f2ed7d7b69b7f13b4c1acf02a05f19a2e639a[m
+Merge: 5bcca3e 65eaa38
+Author: Pole <juanmspoleti@gmail.com>
+Date:   Tue Aug 4 13:07:22 2020 -0300
+
+    Merge branch 'master' into develop
+
+[33mcommit 65eaa38aeb5f4ca151e0a40c47366b07811e26b9[m
+Author: Pole <juanmspoleti@gmail.com>
+Date:   Tue Aug 4 13:05:46 2020 -0300
+
+    pom 3.1.2
+
+[33mcommit ca711e58650820a2b4cbe0eb5e48201e4e85f99f[m
+Author: Pole <juanmspoleti@gmail.com>
+Date:   Tue Aug 4 12:59:35 2020 -0300
+
+    migracion a lippia 3.1.2 + arreglos browserstack
+
+[33mcommit fcc2e0f31d514f278bc5fecff1ceae04636b4b0c[m
+Author: Juan Manuel Carames <juan.carames@crowdaronline.com>
+Date:   Thu Jul 16 14:12:32 2020 +0000
+
+    Initial Bitbucket Pipelines configuration
+
+[33mcommit 5bcca3e77c9518fd87eb58013041f044775bd1ad[m
+Author: Pole <juan.spoleti@crowdaronline.com>
+Date:   Thu May 28 20:17:45 2020 -0300
+
+    update pom
+
+[33mcommit 7f337915add46eb754b8a3262559cd3cb0283dec[m
+Author: Pole <juan.spoleti@crowdaronline.com>
+Date:   Thu May 28 18:27:02 2020 -0300
+
+    apk ApiDemos como default
+
+[33mcommit 7667ff015d313c472fb0e9afe08b9770bed6347e[m
+Author: Pole <juan.spoleti@crowdaronline.com>
+Date:   Thu May 28 18:24:47 2020 -0300
+
+    fixes pom y config properties
+
+[33mcommit d8a1f6f8c49682cfd164c41f92f4e97724cac55d[m
+Merge: 5f73416 4664b64
+Author: Pole <juanmspoleti@gmail.com>
+Date:   Fri Apr 24 14:55:09 2020 -0300
+
+    run apidemos
+
+[33mcommit 4664b64e92a05dd47689a669ecc30a798058ae74[m
+Author: Pole <juanmspoleti@gmail.com>
+Date:   Fri Apr 24 13:40:40 2020 -0300
+
+    run apidemos
+
+[33mcommit 5f734165d54ca5acd43c47e303d1709be074905c[m
+Merge: 4797d04 ff23fa6
+Author: Juan Manuel Spoleti <55459797+juanspoleti@users.noreply.github.com>
+Date:   Fri Apr 24 14:54:16 2020 -0300
+
+    Merge pull request #2 from Crowdar/lippia3.0.0
+    
+    Lippia3.0.0
+
+[33mcommit ff23fa6f626cea3ce5d544f09b0b56ff64bc3aa3[m
+Author: Juan Manuel Spoleti <55459797+juanspoleti@users.noreply.github.com>
+Date:   Fri Apr 24 14:53:23 2020 -0300
+
+    update readme
+
+[33mcommit df2417bdc63301e6080916c2c1a2d41e0748d6e2[m
+Author: Juan Manuel Spoleti <55459797+juanspoleti@users.noreply.github.com>
+Date:   Fri Apr 24 13:40:22 2020 -0300
+
+    Update readme
+
+[33mcommit 520f5e51e34990365f27c7403273af1054501791[m
+Author: Pole <juanmspoleti@gmail.com>
+Date:   Thu Apr 23 14:27:30 2020 -0300
+
+    update a lippia 3.0.0 con las capabilities de android
+
+[33mcommit dec9b94d948ab49357243295ef7682dbb0d1ee33[m
+Author: juan.carames <juanmaCarames@asd.com>
+Date:   Tue Feb 18 15:58:36 2020 -0300
+
+    - BrowserStack execution available
+    - Upgrade Lippia Core to 2.0.2
+    - Capabilities as Json File
+
+[33mcommit 0fe0d074523401ea1e26378b8e7568b8490e3ce0[m
+Author: juancarames <juan.carames@crowdaronline.com>
+Date:   Tue Feb 18 14:00:03 2020 -0300
+
+    modification related to generic driver implementation
+
+[33mcommit ca84894585164cd76067571f3d972353373a3f10[m
+Author: Pole <juanmspoleti@gmail.com>
+Date:   Mon Feb 17 15:38:23 2020 -0300
+
+    upgrade lippia 2.0.2 + utilizacion de Accessibility id
+
+[33mcommit 4797d04df29ebbe70afe7e530bf312b0c78fcb35[m
+Author: Pole <juanmspoleti@gmail.com>
+Date:   Thu Jan 30 23:28:33 2020 -0300
+
+    saco avd + @smoke a @demo
+
+[33mcommit ceb74dc7b2dd4dda199bf51f1ea7ab29eb09c15a[m
+Author: Pole <juanmspoleti@gmail.com>
+Date:   Thu Jan 30 23:19:47 2020 -0300
+
+    agrego nueva apk, nuevo feature, steps, page objects
+
+[33mcommit d505084ce1703f9d806eae49547660f46f4dfa78[m
+Author: Pole <juan.spoleti@crowdaronline.com>
+Date:   Thu Jan 30 21:43:46 2020 -0300
+
+    creo perfiles stack jenkins y stack local + cambio en jenkinsfile con StackJenkins profile
+
+[33mcommit be9bb3447fa567427ba370c1255a9c1786c41a37[m
+Author: Pole <juan.spoleti@crowdaronline.com>
+Date:   Thu Jan 30 21:39:17 2020 -0300
+
+    cambio la url de gridHub a 127.0.0.1
+
+[33mcommit 90cad3a5725b12cd2fbaa950f8159cb44b6eb898[m
+Author: Juan Manuel Spoleti <55459797+juanspoleti@users.noreply.github.com>
+Date:   Thu Jan 30 21:02:02 2020 -0300
+
+    cambio en pom grihub
+
+[33mcommit 41bc61357b9d5189bd954e42cfa9380983313932[m
+Author: Pole <juan.spoleti@crowdaronline.com>
+Date:   Tue Jan 14 14:03:28 2020 -0300
+
+    cambio la url de gridHub a localhost
+
+[33mcommit 9abb11f5c0559742d9ab7194ccd57ea585cb8dcc[m
+Author: Pole <juanmspoleti@gmail.com>
+Date:   Tue Dec 24 16:57:55 2019 -0300
+
+    update nexus https
+
+[33mcommit 8186222393b672ccce05ef6b559eef098093a040[m
+Author: Pole <juanmspoleti@gmail.com>
+Date:   Tue Dec 24 15:54:49 2019 -0300
+
+    update a version 1.9.0 Lippia
+
+[33mcommit 99756bbce34059c8e6466ee9161c5b4017fdca35[m
+Merge: 5d2145d dbfeb7a
+Author: juancarames <55440211+juancarames@users.noreply.github.com>
+Date:   Tue Oct 1 10:33:34 2019 -0300
+
+    Merge pull request #1 from Crowdar/fixLocal
+    
+    Fix local
+
+[33mcommit dbfeb7a4eaa4c8bff602d71df18beb8fe689d1a0[m
+Author: Pole <juan.spoleti@crowdaronline.com>
+Date:   Tue Oct 1 09:21:02 2019 -0300
+
+    agrego properties al pom para perfiles local y stack + fix driver hub url
+
+[33mcommit 7761639428ef65e04db1121ab3bae1c7ecc14828[m
+Author: Pole <juanmspoleti@gmail.com>
+Date:   Mon Sep 30 15:07:09 2019 -0300
+
+    prueba fix local
+
+[33mcommit 5d2145dbfcd991af6412f14a8b28e7e72c0e234d[m
+Author: juarmas <juarmas@juarmas.com>
+Date:   Fri Sep 20 09:53:28 2019 -0300
+
+    update readme
+
+[33mcommit c8f701f04daa3883ef1bfeccddfce72ad681e94c[m
+Author: juarmas <juarmas@juarmas.com>
+Date:   Fri Sep 20 08:50:07 2019 -0300
+
+    cleanup users directory
+
+[33mcommit 103577553194e31686f337c269860b3e9a87ec13[m
+Author: juarmas <juarmas@juarmas.com>
+Date:   Fri Sep 20 08:23:31 2019 -0300
+
+    ignore video recorder directory
+
+[33mcommit c443d421bfd6f1f5484ae4ad3a23352f84233969[m
+Author: juarmas <juarmas@juarmas.com>
+Date:   Fri Sep 20 08:22:25 2019 -0300
+
+    update gitIgnore
+
+[33mcommit 63f426c93c848e34fc7f59870f8c3a90fadb7ba7[m
+Author: juarmas <juarmas@juarmas.com>
+Date:   Fri Sep 20 08:20:48 2019 -0300
+
+    gitignore docker/jenkins_home
+
+[33mcommit 268ef7793439335884fe12acfe1dc02ec85f4d44[m
+Author: juarmas <juarmas@juarmas.com>
+Date:   Thu Sep 19 14:25:41 2019 -0300
+
+    jenkins job configuration files
+
+[33mcommit e5344804c4c359d23f714c8a29a8492f7b0db34a[m
+Author: juarmas <juarmas@juarmas.com>
+Date:   Thu Sep 19 14:18:50 2019 -0300
+
+    update publish report stage
+
+[33mcommit b20a7e8672beb76d938fc14a98d1402cbe0b3070[m
+Author: juarmas <juarmas@juarmas.com>
+Date:   Thu Sep 19 14:13:53 2019 -0300
+
+    update jenkins file to consume correct maven profile
+
+[33mcommit bcd41ba70d03f3b67265965504c49cdc4e0e1393[m
+Author: juarmas <juarmas@juarmas.com>
+Date:   Thu Sep 19 14:12:51 2019 -0300
+
+    update stack profile configuration
+
+[33mcommit 704656325a20ec02e01f3da97a514e0a22ae0220[m
+Author: juarmas <juarmas@juarmas.com>
+Date:   Thu Sep 19 13:53:49 2019 -0300
+
+    remove web job
+
+[33mcommit 3ea6b68dfa2d1a991a8c712bb69111023ca35f0e[m
+Author: juarmas <juarmas@juarmas.com>
+Date:   Thu Sep 19 13:34:41 2019 -0300
+
+    jenkinsFile addition
+
+[33mcommit 4f66cdcc76a5a62afc31bc69b02a4bf14966c4d2[m
+Author: juarmas <juarmas@juarmas.com>
+Date:   Thu Sep 19 13:21:49 2019 -0300
+
+    nginx container added
+
+[33mcommit 0035c92f721a8866117cd9f342f4f977c5d0d460[m
+Author: juarmas <juarmas@juarmas.com>
+Date:   Thu Sep 19 13:16:16 2019 -0300
+
+    jenkins home
+
+[33mcommit 38fda25e806007d47a9987f827de401264f3aa4c[m
+Author: juancarames <55440211+juancarames@users.noreply.github.com>
+Date:   Thu Sep 19 13:09:18 2019 -0300
+
+    Update README_Linux.md
+
+[33mcommit f5da43fd91ec02025793d279c655b878ed93a842[m
+Author: juancarames <55440211+juancarames@users.noreply.github.com>
+Date:   Thu Sep 19 13:07:57 2019 -0300
+
+    update linux readme
+
+[33mcommit 87a18fa4107423cddbd4a275627b65a6126f4b11[m
+Author: juarmas <juarmas@juarmas.com>
+Date:   Thu Sep 19 13:07:09 2019 -0300
+
+    readme, jenkins images addition
+
+[33mcommit 8caf5d4f6c5047cf4be63132900972e467cee541[m
+Author: juarmas <juarmas@juarmas.com>
+Date:   Thu Sep 19 12:57:41 2019 -0300
+
+    update readme images
+
+[33mcommit df3013e554aad4bdb83af83ef256f65edd80387e[m
+Author: juarmas <juarmas@juarmas.com>
+Date:   Thu Sep 19 12:22:22 2019 -0300
+
+    updates:
+      - hub url
+      - readme_Linux
+      - generated report name
+
+[33mcommit a91899d1b358edac5fa8220a6afbf242c30fef13[m
+Author: juarmas <juarmas@juarmas.com>
+Date:   Thu Sep 19 10:52:50 2019 -0300
+
+    update pom configuration
+
+[33mcommit e50cf473313a7ce6c1b68c54471e8794a685d7db[m
+Author: juarmas <juarmas@juarmas.com>
+Date:   Thu Sep 19 10:51:46 2019 -0300
+
+    jenkins container addition to compose
+
+[33mcommit 9c2865b10efb1336dafc1d0c7ec0d762f76e5f45[m
+Author: juarmas <juarmas@juarmas.com>
+Date:   Thu Sep 19 10:51:21 2019 -0300
+
+    nginx configuration added
+
+[33mcommit a34ea67f5ef3d0c3aa9fd9f3f784d0fa193eaea4[m
+Author: juarmas <juarmas@juarmas.com>
+Date:   Thu Sep 19 10:47:52 2019 -0300
+
+    update source code
+    - change feature steps language
+    - clean unused classes
+    - add assertion steps to verify behavior
+    - update generated report name
+
+[33mcommit 208ae78f94befa71b940f5ce5d7260d55239e6e4[m
+Author: Juan Manuel Carames <juan.carames@crowdaronline.com>
+Date:   Mon Sep 9 16:16:20 2019 +0000
+
+    update image links
+
+[33mcommit dacec2a7a37feb64ced752d63a888da553a78f51[m
+Author: Guillermo Aguirre <guillermo.aguirre@crowdaronline.com>
+Date:   Mon Aug 12 01:22:02 2019 +0000
+
+    README.md edited online with Bitbucket
+
+[33mcommit 3fa624501f0109f4d1db2f46ebdc2c512aeaedd4[m
+Author: Guillermo Aguirre <guillermo.aguirre@cision.com>
+Date:   Sun Aug 11 22:16:57 2019 -0300
+
+    file
+
+[33mcommit dab3b5d9624a734606620247f63a75cf4e7f8ad2[m
+Author: Javier Re <javier.re@crowdaronline.com>
+Date:   Tue Jul 16 16:16:24 2019 +0000
+
+    Architecture image
+
+[33mcommit f3158fdbfe95d326ed5b386f13432d8e48602cb0[m
+Author: rejavier <rejavier@gmail.com>
+Date:   Tue Jul 16 13:14:50 2019 -0300
+
+    Mobile Architecture diagram
+
+[33mcommit f26245eaa62eea5ae89966191b70e26ba55f4680[m
+Author: Javier Re <javier.re@crowdaronline.com>
+Date:   Tue Jul 16 15:54:27 2019 +0000
+
+    arquitecture-mobile.png edited online with Bitbucket
+
+[33mcommit 3f07d76164aa257603844f71bda1f670606ca016[m
+Author: Javier Re <javier.re@crowdaronline.com>
+Date:   Tue Jul 16 15:53:51 2019 +0000
+
+    README.md edited online with Bitbucket
+
+[33mcommit 1f4703f7fb15d8dc42add5406530c8daaa333ce0[m
+Author: Javier Re <javier.re@crowdaronline.com>
+Date:   Tue Jul 16 15:51:02 2019 +0000
+
+    Added Architecture image
+
+[33mcommit e54b5a774395f6f83afef152de4ffa0afa64e5c9[m
+Author: Javier Re <javier@Javiers-MacBook.local>
+Date:   Tue Jul 16 12:47:17 2019 -0300
+
+    Added architecture image
+
+[33mcommit 729f72f99df85212103bbc98cc427acbc748db9d[m
+Author: Javier Re <javier.re@crowdaronline.com>
+Date:   Tue Jul 16 15:41:05 2019 +0000
+
+    Added purpose and architecture diagram
+
+[33mcommit 22cdcf7eab2c0d098ea7c60897e42b8f563fc20f[m
+Author: Juan Manuel Spoleti <juan.spoleti@crowdaronline.com>
+Date:   Wed Jul 10 17:13:14 2019 +0000
+
+    docker-compose.yml created online with Bitbucket
+
+[33mcommit 3d25dccc62332868edb41eb9bb91f450884b3457[m
+Author: Juan Manuel Carames <juan.carames@crowdaronline.com>
+Date:   Fri Jul 5 14:35:00 2019 +0000
+
+    artifact name and id modification
+
+[33mcommit 5377d185e2c4676232eff2bb573950d3df954b5c[m
+Author: Juan Manuel Carames <juan.carames@crowdaronline.com>
+Date:   Thu Jul 4 12:28:15 2019 +0000
+
+    README.md edited online with Bitbucket
+
+[33mcommit d89a7e0d353a4999ba4b0bd358558d25f2c88ec0[m
+Author: Juan Manuel Carames <juan.carames@crowdaronline.com>
+Date:   Thu Jul 4 12:00:05 2019 +0000
+
+    repository name modification
